@@ -11,3 +11,4 @@
 -   [007.整数反转（简单）](https://github.com/xxcr/LeetCode/blob/master/code/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
 -   [008.字符串转换整数 (atoi)（中等）](https://github.com/xxcr/LeetCode/blob/master/code/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md)
 -   [009.回文数（简单）](https://github.com/xxcr/LeetCode/blob/master/code/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md)
+-   [010.盛最多水的容器（中等）](https://github.com/xxcr/LeetCode/blob/master/code/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md)
