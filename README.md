@@ -14,3 +14,4 @@
 -   [011.盛最多水的容器（中等）](https://github.com/xxcr/LeetCode/blob/master/code/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
 -   [012.整数转罗马数字（中等）](https://github.com/xxcr/LeetCode/blob/master/code/12.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.md)
 -   [013.罗马数字转整数（简单）](https://github.com/xxcr/LeetCode/blob/master/code/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
+-   [014.最长公共前缀（简单）](https://github.com/xxcr/LeetCode/blob/master/code/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
