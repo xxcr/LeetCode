@@ -20,3 +20,4 @@
 -   [017.电话号码的字母组合（中等）](https://github.com/xxcr/LeetCode/blob/master/code/17.%20%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
 -   [018.四数之和（中等）](https://github.com/xxcr/LeetCode/blob/master/code/18.%20%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 -   [020.有效的括号（简单）](https://github.com/xxcr/LeetCode/blob/master/code/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+-   [021.合并两个有序链表（简单）](https://github.com/xxcr/LeetCode/blob/master/code/21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
