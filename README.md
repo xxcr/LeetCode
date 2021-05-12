@@ -1,7 +1,13 @@
 # LeetCode
 记录自己的LeetCode刷题之旅。
 
-## 目录
+## 知识点目录
+
+-   [五大常用算法：分治、动态规划、贪心、回溯和分支界定](https://blog.csdn.net/u011956147/article/details/68066304)
+
+
+## 刷题目录
+
 -   [001.两数之和（简单）](https://github.com/xxcr/LeetCode/blob/master/code/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 -   [002.两数相加（中等）](https://github.com/xxcr/LeetCode/blob/master/code/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 -   [003.无重复字符的最新子串（中等）](https://github.com/xxcr/LeetCode/blob/master/code/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
