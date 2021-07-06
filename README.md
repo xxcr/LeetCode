@@ -27,3 +27,6 @@
 -   [018.四数之和（中等）](https://github.com/xxcr/LeetCode/blob/master/code/18.%20%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 -   [020.有效的括号（简单）](https://github.com/xxcr/LeetCode/blob/master/code/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 -   [021.合并两个有序链表（简单）](https://github.com/xxcr/LeetCode/blob/master/code/21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+-   [026.删除有序数组中的重复项（简单）](https://github.com/xxcr/LeetCode/blob/master/code/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
+-   [027.移除元素（简单）](https://github.com/xxcr/LeetCode/blob/master/code/27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
+-   [028.实现 strStr()（简单）](https://github.com/xxcr/LeetCode/blob/master/code/28.%20%E5%AE%9E%E7%8E%B0%20strStr().md)
