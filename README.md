@@ -31,7 +31,7 @@
 -   [026.删除有序数组中的重复项（简单）](https://github.com/xxcr/LeetCode/blob/master/code/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
 -   [027.移除元素（简单）](https://github.com/xxcr/LeetCode/blob/master/code/27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
 -   [028.实现 strStr()（简单）](https://github.com/xxcr/LeetCode/blob/master/code/28.%20%E5%AE%9E%E7%8E%B0%20strStr().md)
--   [034.在排序数组中查找元素的第一个和最后一个位置](https://github.com/xxcr/LeetCode/blob/master/code/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
+-   [034.在排序数组中查找元素的第一个和最后一个位置（中等）](https://github.com/xxcr/LeetCode/blob/master/code/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
 
 
 
@@ -39,3 +39,4 @@
 
 [「算法与数据结构」一张脑图带你看动态规划算法之美](https://juejin.cn/post/6872115031501340679#heading-17)
 
+- [爬楼梯](https://juejin.cn/post/6872115031501340679#heading-10)
