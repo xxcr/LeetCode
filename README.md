@@ -39,5 +39,7 @@
 
 [「算法与数据结构」一张脑图带你看动态规划算法之美](https://juejin.cn/post/6872115031501340679#heading-17)
 
-- [爬楼梯](https://github.com/xxcr/LeetCode/blob/master/code/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+- [爬楼梯（简单）](https://github.com/xxcr/LeetCode/blob/master/code/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+
+- #### [打家劫舍（中等）]
 
