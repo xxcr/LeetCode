@@ -44,4 +44,5 @@
 - [打家劫舍（中等）](https://github.com/xxcr/LeetCode/blob/master/code/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
 - [面试题 16.17. 连续数列（简单）](https://github.com/xxcr/LeetCode/blob/master/code/%E9%9D%A2%E8%AF%95%E9%A2%98%2016.17.%20%E8%BF%9E%E7%BB%AD%E6%95%B0%E5%88%97.md)
 - [面试题 08.01. 三步问题（简单）](https://github.com/xxcr/LeetCode/blob/master/code/%E9%9D%A2%E8%AF%95%E9%A2%98%2008.01.%20%E4%B8%89%E6%AD%A5%E9%97%AE%E9%A2%98.md)
+- [最长递增子序列（中等）](https://github.com/xxcr/LeetCode/blob/master/code/300.%20%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
